@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🎉 Congratulations cassolato! 🎉
+# 🎉 Congratulations Cassolato! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
